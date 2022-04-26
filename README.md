@@ -108,6 +108,7 @@ Expected Output :
 # Week 2: Exercises
 
 https://www.geeksforgeeks.org/exceptions-in-java/
+
 https://www.programiz.com/java-programming/exception-handling
 
 read this article and try given examples
@@ -124,7 +125,7 @@ read this article and try given examples
 
 # Week 3: Exercises
 
-# Linked List
+## Linked List
 
 1. Write a Java program to append the specified element to the end of a linked list.
 2. Write a Java program to iterate through all elements in a linked list. 
@@ -133,14 +134,14 @@ read this article and try given examples
 5. Write a Java program to insert the specified element at the specified position in the linked list.
 ArrayList also
 
-# HashSet
+## HashSet
 
 1. Write a Java program to append the specified element to the end of a hash set. 
 2. Write a Java program to iterate through all elements in a hash list. 
 3. Write a Java program to get the number of elements in a hash set. 
 4. Write a Java program to empty an hash set.
 
-# TreeSet
+## TreeSet
 
 Write a Java program to create a new tree set, add some colors (string) and print out the tree set. 
 2. Write a Java program to iterate through all elements in a tree set.
