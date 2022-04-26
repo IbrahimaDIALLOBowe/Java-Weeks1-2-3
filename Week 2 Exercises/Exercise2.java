@@ -1,5 +1,9 @@
 package com.Week2.Day7.Assignment2;
 
+/**
+ * Program for multiple catch with single try
+ */
+
 public class Exercise2 {
     public static void main(String[] args) {
         try {

@@ -1,5 +1,8 @@
 package com.Week2.Day7.Assignment2;
 
+/**
+ * Program illustrating throws keyword
+ */
 
 public class Exercise3 {
     public static void main(String[] args) throws ArithmeticException {

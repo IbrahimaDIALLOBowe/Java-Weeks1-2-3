@@ -1,5 +1,9 @@
 package com.Week2.Day7.Assignment2;
 
+/**
+ * Program with try and catch & finally block
+ */
+
 public class Exercise1 {
     public static void main(String[] args) {
         try {

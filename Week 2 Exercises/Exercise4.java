@@ -1,5 +1,9 @@
 package com.Week2.Day7.Assignment2;
 
+/**
+ * Program for chained exception
+ */
+
 public class Exercise4 {
     public static void main(String[] args) {
         try {

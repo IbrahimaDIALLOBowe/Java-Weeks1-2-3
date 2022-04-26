@@ -5,6 +5,10 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.ListIterator;
 
+/**
+ *  Write a Java program to iterate through all elements in a linked list starting at the specified position.
+ */
+
 public class Exercise3 {
     public static void main(String[] args) {
        LinkedList<String> gList = new LinkedList<String>();
