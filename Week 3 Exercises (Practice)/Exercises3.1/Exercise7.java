@@ -11,8 +11,11 @@ public class Exercise7 {
     public static void main(String[] args) throws FileNotFoundException {
         File file = new File("src/Week3/Day12/Exercises/ForExercise6.txt");
         Scanner sc = new Scanner(file);
-        while (sc.hasNextLine())
 
+
+        System.out.println(sc.nextLine());
+        System.out.println(sc.nextLine());
+        System.out.println(sc.nextLine());
         System.out.println(sc.nextLine());
 
 
